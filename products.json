@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" PANEL 1GB BY YOPAN",
+        "price": 1000,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" PANEL 2GB BY YOPAN",
+        "price": 2000,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" PANEL 3GB BY YOPAN",
+        "price": 3000,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" PANEL 4GB BY YOPAN",
+        "price": 4000,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" PANEL 5GB BY YOPAN",
+        "price": 5000,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" PANEL 6GB BY YOPAN",
+        "price": 6000,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" PANEL 7GB BY YOPAN",
+        "price": 7000,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" PANEL UNLIMITED BY YOPAN",
+        "price": 10000,
+        "image": "image/8.png"
+    }
+
+]
